@@ -7,3 +7,5 @@ The planner takes in the following inputs and returns a graph diplaying the avai
 * radii and coordinates of obstacles
 * coordinates of potential nodes
 * coordinates of start and goal nodes
+
+There are two test cases provided at the end of the code. The first one uses a list of fixed obstacles and the second one will generate a list of random obstacles. 
